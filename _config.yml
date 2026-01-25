@@ -1,21 +1,18 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
+title: BI Xia   # Main site title (appears in browser tab & RSS)
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://bbixia.github.io/
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
   name: BI Xia
-  avatar: hanlin.jpg
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
+  avatar: bixia 00.43.45.jpg
   email: bixia.bi@connect.polyu.hk
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.

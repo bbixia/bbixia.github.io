@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About
+## About
 
 
 BI Xia 畢夏, is a PhD candidate in the [Public Design Lab](https://www.polyu.edu.hk/en/sd/research/research-centres-and-labs/public-design-lab/), [School of Design](https://www.polyu.edu.hk/sd/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), supervised by [Prof. Kin Wai Michael Siu](https://www.polyu.edu.hk/sd/people/academic-staff/siu-michael/?sc_lang=en).<br/>

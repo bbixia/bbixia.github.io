@@ -4,7 +4,7 @@ permalink: /cn/index.html
 title: 蔡汉霖的个人主页
 ---
 
-## 关于我
+## 关于
 
 <img src="https://caihanlin.com/backup/caihalin(2025).PNG" class="floatpic">
 

@@ -14,11 +14,12 @@ url: https://caihanlin.com
 # --------------------------------------------------
 owner:
   name: BI Xia
-  avatar: profile.jpg
-  email: hc663@cam.ac.uk
-  
+  avatar: hanlin.jpg
+  # bio: Dream big, stay positive, work hard, and enjoy the journey.
+  email: bixia.bi@connect.polyu.hk
+
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  linkedin: https://linkedin.com/in/xia-bi-163872184
+  linkedin: https://www.linkedin.com/in/xia-bi-163872184/
   scholar: https://scholar.google.com/citations?user=ChZJHWAAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Xia_Bi
 

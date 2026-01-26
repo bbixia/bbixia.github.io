@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Experience/index.html
+permalink: /experience/index.html
 title: Experience
 
 ---

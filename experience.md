@@ -14,7 +14,7 @@ title: Experience
 - Determinism (2019)
 - White Lie (2018)
 - The Corner (2017)
-- View the [portfolio](https://www.behance.net/gallery/79059259/Interior-Behaviour-Design-Portfolio-Bi-Xia-) for more.
+- View [portfolio](https://www.behance.net/gallery/79059259/Interior-Behaviour-Design-Portfolio-Bi-Xia-) for more.
 
 
 - IEEE Global Communications Conference (2025)

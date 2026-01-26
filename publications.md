@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Journal Publications
+### Journal Publications
 
 - **Bi, X.**, Jian, Y. I., Villani, C., Leung, K. Y., & Siu, K. W. M. (2026). How public open spaces co-construct solitary experiences in densely populated urban environments. *Health & Place*, 97, 103596. [https://www.sciencedirect.com/science/article/pii/S1353829225001868](https://www.sciencedirect.com/science/article/pii/S1353829225001868)
   
@@ -12,10 +12,9 @@ title: Publications
 
 - **Bi, X.**, Fang, Y., Villani, C., Jian, I. Y., Leung, K. Y., & Siu, K. W. M. (2025). Tranquillity amidst the bustle: Positive solitude and public open space design in high-density urban contexts. *Urban Studies*, 00420980251338151. [https://doi.org/10.1177/00420980251338151](https://doi.org/10.1177/00420980251338151)
   
+---
 
-  <br>
-
-## Conference Proceedings
+### Conference Proceedings
 
 - **Bi, X.**, Villani, C., & Wai Michael Siu, K. (2024). Born alone, but not lonely: Rethinking public space design for Chinese one-child generation’s affinity for solitude. *DRS2024*: Boston. [https://doi.org/10.21606/drs.2024.191](https://doi.org/10.21606/drs.2024.191)
   

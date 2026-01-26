@@ -6,7 +6,7 @@ title: 畢夏的個人主頁
 
 ### 關於
 
-畢夏（BI Xia），為[香港理工大學](https://www.polyu.edu.hk/tc/)(The Hong Kong Polytechnic University)[設計學院](https://www.polyu.edu.hk/sd/)（School of Design）[公共設計實驗室](https://www.polyu.edu.hk/en/sd/research/research-centres-and-labs/public-design-lab/)(Public Design Lab)之博士研究候選人，現由[邵健偉教授（Prof. Kin Wai Michael Siu）](https://www.polyu.edu.hk/sd/people/academic-staff/siu-michael/?sc_lang=en)指導。
+畢夏（BI Xia），為[香港理工大學](https://www.polyu.edu.hk/tc/)(The Hong Kong Polytechnic University)[設計學院](https://www.polyu.edu.hk/sd/)（School of Design）[公共設計實驗室](https://www.polyu.edu.hk/en/sd/research/research-centres-and-labs/public-design-lab/)(Public Design Lab)之博士研究候選人，現由[邵健偉教授](https://www.polyu.edu.hk/sd/people/academic-staff/siu-michael/?sc_lang=en)（Prof. Kin Wai Michael Siu）指導。
 
 畢夏的博士研究題「獨處的內在性：重新思考擁擠城市環境公共空間中的正向獨處-香港研究（Solitary Interiority: Rethinking Positive Solitude in Public Open Space Design Within Densely Populated Urban Contexts-A Study in Hong Kong）」，探討在高密度城市中，原本以促進社交互動為主要目的之公共開放空間，如何同時成為孕育「正向獨處」的場所。研究以關係思維（relational thinking）、行動者網絡理論（Actor–Network Theory）及可供性（affordance）觀點為理論基礎，將此類公共空間理解為一種「非計劃性的室內性（unplanned interiors）」，並提出***「獨處的內在性（solitary interiority）」***作為核心概念。
 

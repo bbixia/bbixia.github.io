@@ -18,12 +18,12 @@ He previously earned a Bachelor of Fine Arts in Product Design from the School o
 
 Please feel free to reach out at [**bixia.bi@connect.polyu.hk**](mailto:bixia.bi@connect.polyu.hk) or [**bixia0715@gmail.com**](mailto:bixia0715@gmail)
 
-[ORCID](https://orcid.org/0000-0002-2337-3964)
-[LinkedIn](https://www.linkedin.com/in/xia-bi-163872184/) 
-[Researchgate](https://www.researchgate.net/profile/Xia_Bi)
-[GoogleScholar] (https://scholar.google.com/citations?user=ChZJHWAAAAAJ&hl=en)
+[ORCID](https://orcid.org/0000-0002-2337-3964)<br>
+[LinkedIn](https://www.linkedin.com/in/xia-bi-163872184/) <br>
+[Researchgate](https://www.researchgate.net/profile/Xia_Bi)<br>
+[GoogleScholar](https://scholar.google.com/citations?user=ChZJHWAAAAAJ&hl=en)<br>
 [Instagram](https://www.instagram.com/bbxax/)
-
+<br>
 ---
 
 ### Research Interests

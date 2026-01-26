@@ -4,8 +4,6 @@ layout: page
 
 ## About
 
-<pre>
-
 BI Xia 畢夏, is a PhD candidate in the [Public Design Lab](https://www.polyu.edu.hk/en/sd/research/research-centres-and-labs/public-design-lab/), [School of Design](https://www.polyu.edu.hk/sd/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), supervised by [Prof. Kin Wai Michael Siu](https://www.polyu.edu.hk/sd/people/academic-staff/siu-michael/?sc_lang=en).
 
 His PhD research, *SOLITARY INTERIORITY: RETHINKING POSITIVE SOLITUDE IN PUBLIC OPEN SPACE DESIGN WITHIN DENSELY POPULATED URBAN CONTEXTS* investigates how public open spaces in high-density cities function as sites for positive solitude, despite being primarily designed for social interaction. Grounded in relational thinking, Actor–Network Theory, and affordance-based perspectives, this research conceptualise these spaces as unplanned interiors and propose the notion of ***solitary interiority***.

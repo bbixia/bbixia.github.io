@@ -17,7 +17,7 @@ title: Publications
 
 ## Conference Proceedings
 
-- **Bi, X.**, Villani, C., & Wai Michael Siu, K. (2024, June 23). Born alone, but not lonely: Rethinking public space design for Chinese one-child generation’s affinity for solitude. *DRS2024*: Boston. [https://doi.org/10.21606/drs.2024.191](https://doi.org/10.21606/drs.2024.191)
+- **Bi, X.**, Villani, C., & Wai Michael Siu, K. (2024). Born alone, but not lonely: Rethinking public space design for Chinese one-child generation’s affinity for solitude. *DRS2024*: Boston. [https://doi.org/10.21606/drs.2024.191](https://doi.org/10.21606/drs.2024.191)
   
 - **Bi, X.** (2023). Positive Solitude: Rethinking public open space design in densely populated urban contexts. A Study in Hong Kong. in 15th International Conference of the European Academy of Design: Espoo. *Blucher Design Proceedings*, 11(4), Article 4. [https://doi.org/10.5151/ead2023-4ESP-01Full-12Xia-Bi](https://doi.org/10.5151/ead2023-4ESP-01Full-12Xia-Bi)
 

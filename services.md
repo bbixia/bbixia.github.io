@@ -1,32 +1,37 @@
 ---
 layout: page
-permalink: /services/index.html
-title: Services
+permalink: /Experience/index.html
+title: Experience
 
 ---
 
-> I am always open to reviewing manuscripts in areas related to 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk
+## Design Work
 
-## Academic Services
+- [Solitudism](https://vimeo.com/434522610?fl=pl&fe=sh) (2020) 
+- Democratic Seats (2019)
+- Feel Good Inc. (2019)
+- Beer & Bread (2019)
+- Determinism (2019)
+- White Lie (2018)
+- The Corner (2017)
+- View the [portfolio](https://www.behance.net/gallery/79059259/Interior-Behaviour-Design-Portfolio-Bi-Xia-) for more.
 
-### Reviewer
 
-- IEEE Communications Letters (2025)
-- IEEE International Conference on Communications (2025)
 - IEEE Global Communications Conference (2025)
 - IEEE Conference on Local Computer Networks (2025)
 - AAAI Conference on Artificial Intelligence (2025)
 - Elsevier: Sustainable Cities and Society (2025, 2026)
 
-### Program Committee
+### Work Experience
 
+- Reviewing Critic (2023 - present) 
 - PC Member in AAAI Undergraduate Consortium (2026)
 
   <br>
 
 ---
 
-## Teaching and Supervision
+## Teaching & Lecturing
 
 - [Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Mr. Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/). Co-supervised with Prof. Ozgur Akan<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio.
 

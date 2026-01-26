@@ -6,29 +6,18 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Journal Manuscripts
+## Journal Publications
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Haofan Dong, Houtianfu Wang, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine, 2025.<br>
-
+- **Bi, X.**, Jian, Y. I., Villani, C., Leung, K. Y., & Siu, K. W. M. (2026). How public open spaces co-construct solitary experiences in densely populated urban environments. Health & Place, 97, 103596. https://www.sciencedirect.com/science/article/pii/S1353829225001868
   
+- **Bi, X.**, & Siu, K. W. M. (2025). Emergent Solitude: Unplanned Interiority in Hong Kong’s Public Spaces. Idea Journal, 22(1), 9–21. https://doi.org/10.37113/ij.v22i1.582
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine, 2025.<br>
-
-  
-
-- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to IEEE Transactions on Wireless Communications, 2026.<br>
-
-  
-  
-- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to IEEE Transactions on Wireless Communications, 2026.<br>
-
-  
-  
-- Perspectives on Visual Analytics for Advancing Imaginative Intelligence<br>Xiangxuan Zhang, **Hanlin Cai**, Xumeng Wang~<br>Submitted to Visual Informatics, 2026.<br>
+- **Bi, X.**, Fang, Y., Villani, C., Jian, I. Y., Leung, K. Y., & Siu, K. W. M. (2025). Tranquillity amidst the bustle: Positive solitude and public open space design in high-density urban contexts. Urban Studies, 00420980251338151. https://doi.org/10.1177/00420980251338151
+- 
 
   <br>
 
-## Conference Paper
+## Conference Proceedings
 
 - [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Conference, 2026. <br>
 - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications (IEEE MolCom 2025)<br>Catania, Italy. February, 2025.<br>

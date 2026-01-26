@@ -10,7 +10,7 @@ His PhD research, *Solitary Interiority: Rethinking Positive Solitude in Public 
 
 Using a mixed research method-including behavioural mapping, on-site ethnographical interviews, and multisensory experiential observation-this research examine how individuals negotiate boundaries, atmospheres, and socio-material relations to create solitary interior experiences in public settings such as Hong Kong. 
 
-BI Xia was a visiting scholar at [Interior Design](https://rmitinteriordesign.website/), [RMIT University](https://www.rmit.edu.au/) in 2024, hosted by [Prof. Suzie Attiwill](https://www.linkedin.com/in/suzie-attiwill/), as part of the PolyU PhD Research Student Attachment Programme and International Collaborative Research Fellowship. 
+BI Xia was a visiting scholar at [Interior Design](https://rmitinteriordesign.website/), [Royal Melbourne Institute of Technology (RMIT University)](https://www.rmit.edu.au/) in 2024, hosted by [Prof. Suzie Attiwill](https://www.linkedin.com/in/suzie-attiwill/), as part of the PolyU PhD Research Student Attachment Programme and International Collaborative Research Fellowship. 
 
 He received his Master of Arts in [Interior Design](https://interiordesignrca.co.uk/) from the School of Architecture, [Royal College of Art](https://2020.rca.ac.uk/students/xia-bi/), London (2018–2020). The degree project, [*Solitudism*](https://interiordesignrca.co.uk/student/bi-xia), developed his interests in solitude, interiority, interior behaviours and everyday practise spatial experience. 
 

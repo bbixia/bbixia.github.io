@@ -5,26 +5,20 @@ title: Experience
 
 ---
 
-## Design Work
+## Design Projects
 
-- [Solitudism](https://vimeo.com/434522610?fl=pl&fe=sh) (2020) 
+- [Solitudism](https://vimeo.com/434522610?fl=pl&fe=sh) <p align="right">(2020) </p>
 - Democratic Seats (2019)
 - Feel Good Inc. (2019)
 - Beer & Bread (2019)
 - Determinism (2019)
 - White Lie (2018)
 - The Corner (2017)
-- View [portfolio](https://www.behance.net/gallery/79059259/Interior-Behaviour-Design-Portfolio-Bi-Xia-) for more.
-
-
-- IEEE Global Communications Conference (2025)
-- IEEE Conference on Local Computer Networks (2025)
-- AAAI Conference on Artificial Intelligence (2025)
-- Elsevier: Sustainable Cities and Society (2025, 2026)
+- View [**portfolio**](https://www.behance.net/gallery/79059259/Interior-Behaviour-Design-Portfolio-Bi-Xia-) for more.
 
 ### Work Experience
 
-- Reviewing Critic (2023 - present) 
+- Reviewing Critic, School of Design, The Hong Kong Polytechnic University (2023 - present) 
 - PC Member in AAAI Undergraduate Consortium (2026)
 
   <br>

@@ -10,7 +10,7 @@ title: 畢夏的個人主頁
 
 畢夏的博士研究題「獨處的內在性：重新思考擁擠城市環境公共空間設計中的正向獨處-香港研究（Solitary Interiority: Rethinking Positive Solitude in Public Open Space Design Within Densely Populated Urban Contexts-A Study in Hong Kong）」，探討在高密度城市中，原本以促進社交互動為主要目的之公共開放空間，如何同時成為孕育「正向獨處」的場所。研究以關係思維（relational thinking）、行動者網絡理論（Actor–Network Theory）及可供性（affordance）觀點為理論基礎，將此類公共空間理解為一種「非計劃性的室內性（unplanned interiors）」，並提出**「獨處的內在性（solitary interiority）」**作為核心概念。
 
-本研究採用混合研究方法，包括行為地圖繪製、現地民族誌訪談，以及多感官經驗式觀察，分析個體如何在公共空間中，透過協商邊界、氛圍與社會—物質關係，生成具內在性的獨處經驗。研究案例主要聚焦於香港的公共空間情境。
+該研究採用混合研究方法，包括行為地圖繪製、現地民族誌訪談，以及多感官經驗式觀察，分析個體如何在公共空間中，透過協商邊界、氛圍與社會—物質關係，生成具內在性的獨處經驗。研究案例主要聚焦於香港的公共空間情境。
 
 2024 年，畢夏以訪問學者身分，於[澳洲皇家墨爾本理工大學](https://www.rmit.edu.au/)（RMIT University）[室內設計系](https://rmitinteriordesign.website/)(Interior Design)進行學術訪問，並由[Prof. Suzie Attiwill](https://www.linkedin.com/in/suzie-attiwill/)接待。該訪問為香港理工大學博士研究生海外交流計 （PolyU PhD Research Student Attachment Programme）及國際協作研究獎助計劃（International Collaborative Research Fellowship）之一部分。
 

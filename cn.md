@@ -1,27 +1,34 @@
 ---
 layout: page
 permalink: /cn/index.html
-title: 蔡汉霖的个人主页
+title: 畢夏的個人主頁
 ---
 
-## 关于
+### 關於
 
-<img src="https://caihanlin.com/backup/caihalin(2025).PNG" class="floatpic">
+畢夏（BI Xia），為[香港理工大學（The Hong Kong Polytechnic University）](https://www.polyu.edu.hk/tc/)[設計學院（School of Design）](https://www.polyu.edu.hk/sd/)[公共設計實驗室（Public Design Lab）](https://www.polyu.edu.hk/en/sd/research/research-centres-and-labs/public-design-lab/)之博士研究生，現由[邵健偉教授（Prof. Kin Wai Michael Siu）](https://www.polyu.edu.hk/sd/people/academic-staff/siu-michael/?sc_lang=en)指導。
 
-<br>首先感谢您的阅读。我是蔡汉霖，2002年生，福建泉州人。国家公派学者。
+畢夏的博士研究題為 Solitary Interiority: Rethinking Positive Solitude in Public Open Space Design Within Densely Populated Urban Contexts，探討在高密度城市中，原本以促進社交互動為主要目的之公共開放空間，如何同時成為孕育「正向獨處」的場所。研究以關係思維（relational thinking）、行動者網絡理論（Actor–Network Theory）及可供性（affordance）觀點為理論基礎，將此類公共空間理解為一種「非計劃性的室內性（unplanned interiors）」，並提出「獨處的內在性（solitary interiority）」作為核心概念。
 
-<br>我在剑桥大学工程系“万物互联”研究组获得硕士学位，师从Ozgur Akan院士与Jon Crowcroft院士。我的研究方向为6G无线通信、未来网络，以及联邦大语言模型。自2025年10月，我在剑桥继续攻读博士学位，我的博士研究获得剑桥信托基金与中国国家留学基金的联合资助。我预计将于2028年12月完成博士学位，并计划尽早回国寻找教职或工业界的机会。如果您有招聘需求或是相关信息，感谢您随时与我联系（联系方式详见文末）。
+本研究採用混合研究方法，包括行為地圖繪製、現地民族誌訪談，以及多感官經驗式觀察，分析個體如何在公共空間中，透過協商邊界、氛圍與社會—物質關係，生成具內在性的獨處經驗。研究案例主要聚焦於香港的公共空間情境。
 
-<br>2024年6月，我在爱尔兰国立大学和中国福州大学的联合培养下取得了本科双学位，包括机器人理学学士和自动化工学学士。2022年至2024年，我在福建省“工业自动化控制技术与信息处理”重点实验室担任科研助理，期间在徐哲壮教授和袁蒙教授的指导下开展研究工作。我的研究获得了国家级本科生科研训练计划、福建省能化集团和厦航奖学金的慷慨支持。本科期间，我曾获得人工智能领域顶级会议AAAI 2024所评选的“杰出本科生”荣誉，该奖项每年在全球范围内仅遴选15名优秀学生。
+2024 年，畢夏以訪問學者身分，於[澳洲皇家墨爾本理工大學（RMIT University）](https://www.rmit.edu.au/)[室內設計系（Interior Design）](https://rmitinteriordesign.website/)進行學術訪問，並由[Prof. Suzie Attiwill](https://www.linkedin.com/in/suzie-attiwill/)接待。該訪問為香港理工大學博士研究生海外交流計 （PolyU PhD Research Student Attachment Programme）及國際協作研究獎助計劃（International Collaborative Research Fellowship）之一部分。
 
-<br>我对6G通信、空天地海一体化网络、星地融合以及通信大语言模型（简称Internet of Agents）等前沿领域非常感兴趣。我相信6G的核心不再是简单追求更高带宽，而是迈向通信系统的智能化与标准化。具体来说，我的博士研究将聚焦于人工智能在无线通信中的深度融合，探索其在物理层与网络层的原生应用，尤其关注AI对信源与信道特性的理解与建模，从而实现干扰抑制、能效优化，以及核心网络对业务的智能适配。
+畢夏於 2018 至 2020 年就讀於[英國倫敦皇家藝術學院（Royal College of Art）](https://2020.rca.ac.uk/students/xia-bi/)[建築學院室內設計系](https://interiordesignrca.co.uk/)，並獲室內設計藝術碩士學位（Master of Arts in Interior Design）。其畢業設計作品，獨處主義（Solitudism），奠定其對獨處、內在性、室內行為與日常空間經驗之長期研究興趣。
 
-<br>最后，若您有任何需要我协助的事项，或者您愿意向我分享您的宝贵建议，我都非常欢迎学术交流与合作。您可以通过邮箱 **hc663[at]cam.ac.uk** 与我联系，或通过微信 **lancecai2002** 添加我**（请务必标注姓名、单位或来意，以便通过申请，非常感谢！）**
+此前，他於 2013 至 2017 年就讀於[北京中央美術學院（Central Academy of Fine Arts）](http://global.cafa.edu.cn/)城市設計學院產品設計系，獲藝術學士學位。其畢業作品，[角落（The Corner）](https://www.behance.net/gallery/79059259/Interior-Behaviour-Design-Portfolio-Bi-Xia-)，為一件空間互動裝置，探討空間、物件與感知之間的關係。
 
+如欲聯絡，歡迎電郵至 bixia.bi@connect.polyu.hk 或 bixia0715@gmail.com
+
+---
+
+### 研究興趣
+
+- 獨處（Solitude）
+- 公共空間設計（Public Space Design）
+- 內在性（Interiority）
+- 城市研究（Urban Studies）
+- 高密度城市語境（Densely Populated Urban Contexts）
+- 關係思維（Relational Thinking）
+- 可供性理論（Affordance）
 <br>
-
-> 分享我最喜欢的一首诗，南宋朱熹的《观书有感》其一
->
-> “半亩方塘一鉴开，天光云影共徘徊。
->
-> 问渠那得清如许，为有源头活水来。”

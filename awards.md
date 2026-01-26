@@ -6,8 +6,8 @@ title: Awards
 
 ### Awards
 
-- 2023 &emsp; Awardee, PolyU PhD Scholars International Collaborative Research Fellowship 2023/2024  (attached to Royal Melbourne Institute of Technology, Australia), The Hong Kong Polytechnic University
-- 2023 &emsp; Awardee, Research Student Attachment Programme (RSAP-Outgoing) 2023/2024 (attached to Royal Melbourne Institute of Technology, Australia), The Hong Kong Polytechnic University
+- 2023 &emsp; PolyU PhD Scholars International Collaborative Research Fellowship 2023/2024 Awardee, (attached to Royal Melbourne Institute of Technology, Australia), The Hong Kong Polytechnic University
+- 2023 &emsp; Research Student Attachment Programme (RSAP-Outgoing) 2023/2024 Awardee,(attached to Royal Melbourne Institute of Technology, Australia), The Hong Kong Polytechnic University
 - 2021 &emsp; Solitudism, C-IDEA Design Grand Award
 - 2021 &emsp; Solitudism, C-IDEA Design Award Exhibition, Seoul, South Korea
 - 2021 &emsp; Solitudism, Singapore Art Design Contest Silver Award

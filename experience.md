@@ -20,8 +20,8 @@ title: Experience
 
 ### Work Experience
 
-- 2023-now   &emsp; Teaching Assistant & Critic, School of Design, The Hong Kong Polytechnic University, Hong Kong
-- 2019-now   &emsp; Part-time Tutor, AS Art, London, Beijing, Shenzhen
+- 2023-now &emsp; Teaching Assistant, The Hong Kong Polytechnic University, Hong Kong
+- 2019-now &emsp; Part-time Tutor, AS Art, London, Beijing, Shenzhen
 - 2020-2021  &ensp; Interior Designer, Launchbox, Shanghai
 - 2019-2020  &ensp; Assistant Interior Designer, Four-by-Two, London
 - 2017-2018  &ensp; Assistant Interior Designer, Wave GB, Beijing

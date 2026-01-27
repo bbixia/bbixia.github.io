@@ -412,16 +412,18 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     border-radius: 50%;
   }
 
-  /* 右侧 bio 区 */
-  .article-author-top .author-bio {
+   /* 右侧 bio：关键就在这里 */
+  .article-author-top .author__content {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: flex-start;   /* 左对齐 */
+    text-align: left;
   }
 
-  .article-author-top .author-bio a {
-    display: block;      /* 关键：竖排 */
-    margin-bottom: 0.25em;
+  /* bio links：一条一行 */
+  .article-author-top .author__content a {
+    display: block;
+    margin-top: 0.25em;
   }
 
 }

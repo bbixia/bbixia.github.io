@@ -409,23 +409,29 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     width: 80px;
     height: auto;
     flex-shrink: 0;
-    border-radius: 50%;
   }
 
-   /* 右侧 bio：关键就在这里 */
+  /* 右侧整体内容 */
   .article-author-top .author__content {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;   /* 左对齐 */
+    display: block;
     text-align: left;
   }
 
-  /* bio links：一条一行 */
-  .article-author-top .author__content a {
+  /* 🔴 关键：links 真正的容器 */
+  .article-author-top .author__urls-wrapper {
+    display: flex !important;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 0.5em;
+  }
+
+  /* 每一个 link */
+  .article-author-top .author__urls-wrapper a {
     display: block;
-    margin-top: 0.25em;
+    margin-bottom: 0.25em;
   }
 
 }
+
 
 

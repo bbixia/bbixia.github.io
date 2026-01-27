@@ -397,7 +397,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     gap: 1em;
     width: 100%;
     margin: 0 0 1.5em 0;
-    text-align: left;
+    text-align: right;
   }
 
   /* Avatar */
@@ -408,12 +408,6 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     margin: 0;
   }
 
-  /* Bio text */
-  .article-author-top h4,
-  .article-author-top p,
-  .article-author-top a {
-    text-align: left;
-  }
 
 }
 

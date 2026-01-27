@@ -391,6 +391,19 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 /* ===== Mobile: avatar left, bio right ===== */
 @media (max-width: 1100px) {
 
+  .article-author-top {
+    display: flex !important;
+    align-items: flex-start;
+    gap: 1em;
+
+    width: 90%;
+    margin-left: 8.333333333333334%;
+    margin-right: 8.333333333333334%;
+    margin-bottom: 1.5em;
+
+    text-align: left;
+  }
+
   /* 左侧头像 */
   .article-author-top img.bio-photo {
     width: 80px;
@@ -401,7 +414,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     margin-right: 8.333333333333334%;
     margin-bottom: 1.5em;
   }
-
+  
 }
 
 

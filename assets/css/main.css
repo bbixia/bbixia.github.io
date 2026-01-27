@@ -411,26 +411,6 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     flex-shrink: 0;
   }
 
-  /* 右侧整体内容 */
-  .article-author-top .author__content {
-    display: block;
-    text-align: left;
-  }
-
-  /* 🔴 关键：links 真正的容器 */
-  .article-author-top .author__urls-wrapper {
-    display: flex !important;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-top: 0.5em;
-  }
-
-  /* 每一个 link */
-  .article-author-top .author__urls-wrapper a {
-    display: block;
-    margin-bottom: 0.25em;
-  }
-
 }
 
 

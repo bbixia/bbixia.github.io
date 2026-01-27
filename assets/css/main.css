@@ -397,17 +397,30 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     gap: 1em;
     width: 100%;
     margin: 0 0 1.5em 0;
-    text-align: right;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: left;
   }
+
+}
 
   /* Avatar */
   .article-author-top img.bio-photo {
     width: 96px;
-    height: auto;
     flex-shrink: 0;
-    margin: 0;
   }
 
+  /* Right column (bio) */
+  .article-author-top .author__content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .article-author-top .author__content a {
+    display: block;
+    margin-top: 0.35em;
+  }
 
 }
 

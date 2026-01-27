@@ -395,30 +395,35 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     display: flex !important;
     align-items: flex-start;
     gap: 1em;
-    width: 100%;
-    margin: 0 0 1.5em 0;
-    padding-left: 1em;
-    padding-right: 1em;
+
+    width: 90%;
+    margin-left: 8.333333333333334%;
+    margin-right: 8.333333333333334%;
+    margin-bottom: 1.5em;
+
     text-align: left;
   }
 
-  /* Avatar */
+  /* 左侧头像 */
   .article-author-top img.bio-photo {
-    width: 96px;
+    width: 80px;
+    height: auto;
     flex-shrink: 0;
+    border-radius: 50%;
   }
 
-  /* Right column (bio) */
-  .article-author-top .author__content {
+  /* 右侧 bio 区 */
+  .article-author-top .author-bio {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
   }
 
-  .article-author-top .author__content a {
-    display: block;
-    margin-top: 0.35em;
+  .article-author-top .author-bio a {
+    display: block;      /* 关键：竖排 */
+    margin-bottom: 0.25em;
   }
 
 }
+
 

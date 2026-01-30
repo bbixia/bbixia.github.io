@@ -6,6 +6,8 @@ title: Publications
 
 ### Journal Publications
 
+- **Bi, X.**, Siu, K. W. M., & Yuan, R. (2026). Solitary Interiority in Hong Kong Public Spaces. Interiority, 9(1), 29–60. https://doi.org/10.7454/in.v9i1.1239
+
 - **Bi, X.**, Jian, Y. I., Villani, C., Leung, K. Y., & Siu, K. W. M. (2026). How public open spaces co-construct solitary experiences in densely populated urban environments. *Health & Place*, 97, 103596. [https://www.sciencedirect.com/science/article/pii/S1353829225001868](https://www.sciencedirect.com/science/article/pii/S1353829225001868)
   
 - **Bi, X.**, & Siu, K. W. M. (2025). Emergent Solitude: Unplanned Interiority in Hong Kong’s Public Spaces. *Idea Journal*, 22(1), 9–21. [https://doi.org/10.37113/ij.v22i1.582](https://doi.org/10.37113/ij.v22i1.582)

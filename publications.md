@@ -18,7 +18,7 @@ title: Publications
 
 ### Conference Proceedings
 
-- **Bi, X.**, Jiang, Y., Villani, C.,and Siu, K.W.(2025) Rethinking Public Space Design and Assemblage Affordances: A Perspective from China's One-Child Generation and Solitude, in Chang, C.-Y., Chen, C.-H., & Hsu, Y. (eds.), *IASDR 2025*: Design Next, 02-05 December, Taipei [https://doi.org/10.21606/iasdr.2025.71](https://doi.org/10.21606/iasdr.2025.71)
+- **Bi, X.**, Jiang, Y., Villani, C.,and Siu, K.W.(2025) Rethinking Public Space Design and Assemblage Affordances: A Perspective from China's One-Child Generation and Solitude, in Chang, C.-Y., Chen, C.-H., & Hsu, Y. (eds.), *IASDR 2025*: Design Next, 02-05 December, Taipei. [https://doi.org/10.21606/iasdr.2025.71](https://doi.org/10.21606/iasdr.2025.71)
 
 - **Bi, X.**, Villani, C., & Wai Michael Siu, K. (2024). Born alone, but not lonely: Rethinking public space design for Chinese one-child generation’s affinity for solitude. *DRS2024*: Boston. [https://doi.org/10.21606/drs.2024.191](https://doi.org/10.21606/drs.2024.191)
   

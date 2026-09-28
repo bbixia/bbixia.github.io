@@ -35,3 +35,38 @@
 注意：原模板在不同屏幕宽度有不同栏宽。
 桌面专用修改放进对应的 @media 内，避免影响手机。
 */
+
+
+/* Portfolio only: two columns, landscape covers, titles below. */
+.portfolio-page .portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 26px 24px;
+}
+.portfolio-page .portfolio-project {
+  min-width: 0;
+}
+.portfolio-page .portfolio-cover {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  background: #dedede;
+  object-fit: cover;
+  border: 0;
+}
+.portfolio-page .portfolio-title {
+  margin: 10px 0 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+  text-transform: none;
+}
+.portfolio-page .portfolio-divider {
+  margin: 36px 0;
+}
+@media only screen and (max-width: 37.49em) {
+  .portfolio-page .portfolio-grid {
+    gap: 22px 16px;
+  }
+}

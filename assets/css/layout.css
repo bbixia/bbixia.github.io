@@ -1,7 +1,7 @@
 /*
  * 日后只在这个文件调整排版。它在原模板 main.css 之后加载。
  * 原有栏宽、边距、导航和响应式断点仍由 main.css 提供。
- * 以下唯一启用的覆盖规则是头像修复。
+ * 包含头像修复、Portfolio 卡片与项目详情页样式。
  */
 .article-author-top img.bio-photo,
 .article-author-bottom img.bio-photo {
@@ -69,4 +69,66 @@
   .portfolio-page .portfolio-grid {
     gap: 22px 16px;
   }
+}
+
+
+/* Clickable cards: rules are scoped to Portfolio, leaving other pages intact. */
+.portfolio-page a.portfolio-project,
+.portfolio-page a.portfolio-project:visited {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  border: 0;
+}
+.portfolio-page a.portfolio-project:hover {
+  border: 0;
+}
+.portfolio-page .portfolio-cover {
+  border-radius: 6px;
+  transition: background-color .15s ease;
+}
+.portfolio-page a.portfolio-project:hover .portfolio-cover {
+  background-color: #d2d2d2;
+}
+.portfolio-page a.portfolio-project:hover .portfolio-title {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.portfolio-page a.portfolio-project:focus-visible,
+.portfolio-detail .portfolio-back:focus-visible {
+  outline: 2px solid #555;
+  outline-offset: 5px;
+}
+.portfolio-detail .portfolio-back {
+  display: inline-block;
+  margin-bottom: 24px;
+  font-size: .85rem;
+}
+.portfolio-detail .portfolio-category {
+  margin: 0 0 8px;
+  color: #777;
+  font-size: .8rem;
+  text-indent: 0;
+}
+.portfolio-detail .portfolio-detail-title {
+  margin-top: 0;
+}
+.portfolio-detail .portfolio-description {
+  margin: 0 0 28px;
+  text-indent: 0;
+}
+.portfolio-detail .portfolio-detail-gallery {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 24px;
+}
+.portfolio-detail .portfolio-detail-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  background: #dedede;
+  object-fit: cover;
+  border: 0;
+  border-radius: 6px;
 }

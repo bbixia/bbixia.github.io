@@ -6,8 +6,9 @@
 .article-author-top img.bio-photo,
 .article-author-bottom img.bio-photo {
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: auto;
+  aspect-ratio: 1 / 1;
   max-width: 100%;
   object-fit: cover;
   object-position: center;

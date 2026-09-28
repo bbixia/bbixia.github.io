@@ -6,7 +6,7 @@ permalink: /experience/
 lang: en
 ---
 
-# Design Projects
+### Design Projects
 
 - 2020 &emsp;[Solitudism](https://vimeo.com/434522610?fl=pl&fe=sh)
 - 2019 &emsp; Democratic Seats 
@@ -19,7 +19,7 @@ lang: en
   
 ---
 
-## Work Experience
+### Work Experience
 
 - 2023-now &emsp; Teaching Assistant, The Hong Kong Polytechnic University
 - 2019-now &emsp; Part-time Tutor, AS Art, London, Beijing, Shenzhen

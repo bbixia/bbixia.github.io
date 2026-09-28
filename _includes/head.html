@@ -1,0 +1,10 @@
+<meta charset="utf-8">
+<title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
+<meta name="description" content="{{ site.description | escape }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<!-- Your layout adjustments go in layout.css, loaded after the original theme. -->
+<link rel="stylesheet" href="{{ '/assets/css/layout.css' | relative_url }}">
+<link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">

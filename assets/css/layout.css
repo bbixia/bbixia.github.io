@@ -1,0 +1,36 @@
+/*
+ * 日后只在这个文件调整排版。它在原模板 main.css 之后加载。
+ * 原有栏宽、边距、导航和响应式断点仍由 main.css 提供。
+ * 以下唯一启用的覆盖规则是头像修复。
+ */
+.article-author-top img.bio-photo,
+.article-author-bottom img.bio-photo {
+  display: block;
+  width: 100px;
+  height: 100px;
+  max-width: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 0;
+}
+
+/* 常用调整位置（取消注释并填写数值后生效）：
+
+#main { margin-top: 1em; }
+#main article { }                    正文栏宽度及外边距
+.article-wrap { }                    正文内部间距
+.article-author-top { }              左侧个人信息栏
+.navigation-wrapper { }              顶部导航区域
+.top-navigation li { }               导航项目间距
+.article-wrap p { }                  正文行距及段落间距
+.article-wrap h3 { }                 各部分标题
+.footer-wrap { }                     页脚
+
+@media only screen and (min-width: 600px) {
+  #main article { }
+  .article-author-top { }
+}
+
+注意：原模板在不同屏幕宽度有不同栏宽。
+桌面专用修改放进对应的 @media 内，避免影响手机。
+*/

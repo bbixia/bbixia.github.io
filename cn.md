@@ -6,7 +6,7 @@ permalink: /cn/
 lang: zh-Hant
 ---
 
-# 關於
+### 關於
 
 畢夏（BI Xia），為[香港理工大學](https://www.polyu.edu.hk/tc/)（The Hong Kong Polytechnic University）[設計學院](https://www.polyu.edu.hk/sd/)（School of Design）[公共設計實驗室](https://www.polyu.edu.hk/en/sd/research/research-centres-and-labs/public-design-lab/)（Public Design Lab）之博士研究候選人，現由[邵健偉教授](https://www.polyu.edu.hk/sd/people/academic-staff/siu-michael/?sc_lang=en)（Prof. Kin Wai Michael Siu）指導。
 
@@ -24,7 +24,7 @@ lang: zh-Hant
 
 ---
 
-## 研究興趣
+### 研究興趣
 
 - 獨處（Solitude）
 - 公共空間設計（Public Space Design）

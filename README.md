@@ -1,39 +1,27 @@
-# BI Xia 畢夏 — 个人主页
+# BI Xia 畢夏 — 原排版恢复版
 
-这是整理后的 Jekyll / GitHub Pages 源码。五页分别为 About、Publications、Experience、Awards、中文。
+恢复上传时的页面结构、导航、栏宽、边距、字体规则、页脚和响应式断点。保留清理后的五页内容和小头像修复，不恢复原作者个人资料、统计账号或评论系统。LICENSE 保留原始版权声明，不发布到网页。
 
-## 替换方法
+## 以后只改哪个文件？
 
-1. 先备份现有仓库或记录当前 commit。
-2. 解压后，将 bbixia.github.io 文件夹里面的内容放到仓库根目录，不要上传 ZIP，也不要套一层同名文件夹。
-3. 这是完整替换包：先移除旧网站文件，再复制本包文件。保留仓库 .git 目录及你自己配置的 GitHub 工作流。仅覆盖同名文件不会删除旧作者的页面！
-4. 提交后等待你原来的 GitHub Pages 构建完成。若使用分支发布，沿用当前分支和 /(root) 配置。
-5. 打开五页确认；浏览器可用 Cmd+Shift+R 强制刷新。
+**assets/css/layout.css**：今后集中在此调整排版。该文件后加载，可覆盖原模板样式；已附常用选择器说明。当前只有 100 × 100 像素方形头像规则生效。
 
-## 日常修改
+assets/css/main.css：恢复后的原模板样式，作为基础保留。
+_layouts/page.html：页面 HTML 结构，负责导航、左栏、正文、页脚的组织。通常不需要改。
+_includes/author-bio.html：头像和联系方式内容。
 
-- 首页：index.md
-- 论文：publications.md
-- 设计项目及工作：experience.md
-- 奖项：awards.md
-- 中文：cn.md
-- 姓名、联系方式、导航：_config.yml
-- 左栏头像及社交链接：_includes/author-bio.html
-- 页面结构：_layouts/page.html
-- 字体、间距及头像尺寸：assets/css/main.css；首行 --avatar-size: 100px 控制方形头像边长。
-- 头像文件：images/bixia.jpg
+## 替换
 
-## 清理说明
+若已经使用上一版整理包，覆盖本包文件即可。若仍在使用最初上传的旧站，应备份后完整替换网站文件，以免原作者页面残留。保留 .git 和现有 GitHub 发布工作流。上传解压后文件夹内部的内容到仓库根目录，不要上传 ZIP 或嵌套同名目录。
 
-删除旧作者博客、兴趣、混杂的 services 页面、旧中英文 CV、旧中文论文/奖项、旧头像/图标及介绍文档；移除旧统计账号、评论系统和所有第三方图标请求。仅 LICENSE 保留原始版权声明，并从网站构建输出排除。
+等待 GitHub Pages 构建成功，再用 Cmd+Shift+R 刷新网页。
 
-采用一个统一页面布局，头像只在左侧栏显示，固定为 100 × 100 像素；手机屏幕上显示在正文上方。CSS 不依赖外部 CDN。保留本次提供的身份、履历及引用信息，仅修复明显拼写、语法和邮件链接问题，未独立核实论文信息。
+## 内容文件
 
-原有作品集 PDF 和图片仍保留。超出本次确认五页范围的作品集页面源码及项目描述放在 _archive，暂不发布，以免误删你的材料。作品集外链仍在 Experience 页面。
+index.md：首页；publications.md：论文；experience.md：项目与工作；awards.md：奖项；cn.md：中文；_config.yml：导航及联系方式。
 
-## 本地构建（需要 Ruby 和 Bundler）
+作品集 PDF、图片和未发布的 _archive 材料继续保留。
 
-bundle install
-bundle exec jekyll serve
+## 验证范围
 
-GitHub Pages 可直接处理本项目的标准 Jekyll/Liquid/Kramdown 文件。发布前可运行 bundle exec jekyll build。
+原模板 CSS 与页面结构已做源码对照；原作者信息已扫描。当前环境没有 Jekyll 和可用浏览器，因此未完成实际构建与视觉验证。

@@ -6,7 +6,7 @@ permalink: /publications/
 lang: en
 ---
 
-# Journal Publications
+### Journal Publications
 
 - **Bi, X.**, Siu, K. W. M., & Yuan, R. (2026). Solitary Interiority in Hong Kong Public Spaces. Interiority, 9(1), 29–60. [https://doi.org/10.7454/in.v9i1.1239](https://doi.org/10.7454/in.v9i1.1239)
 
@@ -18,7 +18,7 @@ lang: en
   
 ---
 
-## Conference Proceedings
+### Conference Proceedings
 
 - **Bi, X.**, Jiang, Y., Villani, C.,and Siu, K.W.(2025) Rethinking Public Space Design and Assemblage Affordances: A Perspective from China's One-Child Generation and Solitude, in Chang, C.-Y., Chen, C.-H., & Hsu, Y. (eds.), *IASDR 2025*: Design Next, 02-05 December, Taipei. [https://doi.org/10.21606/iasdr.2025.71](https://doi.org/10.21606/iasdr.2025.71)
 

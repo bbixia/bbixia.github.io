@@ -1,0 +1,22 @@
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+portfolio: true
+description: Selected spatial design, interior design and installation projects by BI Xia.
+---
+<div class="portfolio-home">
+<header class="portfolio-intro"><p class="portfolio-eyebrow">Selected work</p><h1>Portfolio</h1><p>Exploring the relationships between people, objects and everyday environments through spatial design, interiors and installations.</p><a class="portfolio-download" href="{{ '/file/Bixia-Portfolio.pdf' | relative_url }}">View full portfolio PDF <span aria-hidden="true">↗</span></a></header>
+<nav class="portfolio-categories" aria-label="Portfolio categories"><a href="#practice">Practice Work</a><a href="#research">Research Projects</a></nav>
+<section id="practice"><h2>Practice Work</h2>
+<div class="portfolio-grid">
+{% assign projects = site.projects | sort: 'order' %}
+{% for project in projects %}{% if project.category == 'practice' %}
+<a class="portfolio-card" href="{{ project.url | relative_url }}"><div class="portfolio-cover"><img src="{{ project.cover | relative_url }}" alt="{{ project.title | escape }}" loading="lazy" decoding="async" width="900" height="640"></div><p class="portfolio-eyebrow">{{ project.kind }}</p><h3>{{ project.title }}</h3><p>{{ project.description }}</p><span class="portfolio-view">View project <span aria-hidden="true">↗</span></span></a>
+{% endif %}{% endfor %}
+</div></section>
+<section id="research" class="portfolio-research"><h2>Research Projects</h2>
+{% assign research_projects = projects | where: 'category', 'research' %}
+{% if research_projects.size > 0 %}<div class="portfolio-grid">{% for project in research_projects %}<a class="portfolio-card" href="{{ project.url | relative_url }}"><div class="portfolio-cover"><img src="{{ project.cover | relative_url }}" alt="{{ project.title | escape }}" loading="lazy" width="900" height="640"></div><p class="portfolio-eyebrow">{{ project.kind }}</p><h3>{{ project.title }}</h3><p>{{ project.description }}</p><span class="portfolio-view">View project ↗</span></a>{% endfor %}</div>
+{% else %}<p>Research projects will be added here. For published research, please visit <a href="{{ '/publications/' | relative_url }}">Publications</a>.</p>{% endif %}
+</section></div>

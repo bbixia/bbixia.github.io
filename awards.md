@@ -1,10 +1,12 @@
 ---
 layout: page
-permalink: /awards/index.html
 title: Awards
+nav: Awards
+permalink: /awards/
+lang: en
 ---
 
-### Awards
+# Awards
 
 - 2023 &emsp; PolyU PhD Scholars International Collaborative Research Fellowship 2023/2024 Awardee, (attached to Royal Melbourne Institute of Technology, Australia), The Hong Kong Polytechnic University
 - 2023 &emsp; Research Student Attachment Programme (RSAP-Outgoing) 2023/2024 Awardee,(attached to Royal Melbourne Institute of Technology, Australia), The Hong Kong Polytechnic University

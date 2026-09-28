@@ -1,33 +1,39 @@
-# GuangLun2000.github.io
+# BI Xia 畢夏 — 个人主页
 
-GuangLun (光轮) means Nimbus in Chinese ✨
+这是整理后的 Jekyll / GitHub Pages 源码。五页分别为 About、Publications、Experience、Awards、中文。
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. 
+## 替换方法
 
-This is the repository for my personal website.
+1. 先备份现有仓库或记录当前 commit。
+2. 解压后，将 bbixia.github.io 文件夹里面的内容放到仓库根目录，不要上传 ZIP，也不要套一层同名文件夹。
+3. 这是完整替换包：先移除旧网站文件，再复制本包文件。保留仓库 .git 目录及你自己配置的 GitHub 工作流。仅覆盖同名文件不会删除旧作者的页面！
+4. 提交后等待你原来的 GitHub Pages 构建完成。若使用分支发布，沿用当前分支和 /(root) 配置。
+5. 打开五页确认；浏览器可用 Cmd+Shift+R 强制刷新。
 
-## Update and News
+## 日常修改
 
-- **Sep 2024:** This Github Page has reached **500+ Stars**🌟 Thank you for your support!!!
-- **May 2023:** [Jekyll website building videos](https://www.bilibili.com/video/BV1ja4y1G7tX/) have been uploaded to Bilibili (小白建站视频)
-- **April 2023:** [Website building tutorials](https://caihanlin.com/blogs/web/) have been post on my blog (建站完全指南)
-- **Dec. 2022:** My personal website have been implemented in [caihanlin.com](https://caihanlin.com)
-- **Oct. 2022:** This Github Page have been built based on [Jason Ansel's site](https://github.com/jansel/jansel.github.io).
+- 首页：index.md
+- 论文：publications.md
+- 设计项目及工作：experience.md
+- 奖项：awards.md
+- 中文：cn.md
+- 姓名、联系方式、导航：_config.yml
+- 左栏头像及社交链接：_includes/author-bio.html
+- 页面结构：_layouts/page.html
+- 字体、间距及头像尺寸：assets/css/main.css；首行 --avatar-size: 100px 控制方形头像边长。
+- 头像文件：images/bixia.jpg
 
-## Deployment
+## 清理说明
 
-This site is a **[Jekyll](https://jekyllrb.com/)** project built by **[GitHub Pages](https://pages.github.com/)**. To deploy your own copy:
+删除旧作者博客、兴趣、混杂的 services 页面、旧中英文 CV、旧中文论文/奖项、旧头像/图标及介绍文档；移除旧统计账号、评论系统和所有第三方图标请求。仅 LICENSE 保留原始版权声明，并从网站构建输出排除。
 
-1. **Fork** this repository to your GitHub account (or create a new repo and push these files).
-2. **Choose a URL**
-   - **User or organization site** (`https://<username>.github.io`): rename the repository to `<username>.github.io`. Leave `baseurl` unset (as in this repo).
-   - **Project site** (`https://<username>.github.io/<repo>/`): keep any repo name and add `baseurl: "/<repo-name>"` plus `url: "https://<username>.github.io"` in `_config.yml`.
-3. **Edit `_config.yml`:** set `url`, `title`, `tagline`, `description`, and `owner` (name, avatar, email, social links) to match your site.
-4. **Custom domain (optional):** put your domain in `CNAME`, or remove the file if you only use `*.github.io`. Point DNS to GitHub as described in [GitHub Docs — custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
-5. **Turn on Pages:** in the repo go to **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**, set the branch to **`main`** and the folder to **`/` (root)**. Save and wait for the first build to finish (usually a few minutes).
+采用一个统一页面布局，头像只在左侧栏显示，固定为 100 × 100 像素；手机屏幕上显示在正文上方。CSS 不依赖外部 CDN。保留本次提供的身份、履历及引用信息，仅修复明显拼写、语法和邮件链接问题，未独立核实论文信息。
 
-For a deeper walkthrough (including local preview with Ruby/Jekyll), see the [website building tutorial](https://caihanlin.com/blogs/web/) on the blog.
+原有作品集 PDF 和图片仍保留。超出本次确认五页范围的作品集页面源码及项目描述放在 _archive，暂不发布，以免误删你的材料。作品集外链仍在 Experience 页面。
 
-## Statement
+## 本地构建（需要 Ruby 和 Bundler）
 
-© Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+bundle install
+bundle exec jekyll serve
+
+GitHub Pages 可直接处理本项目的标准 Jekyll/Liquid/Kramdown 文件。发布前可运行 bundle exec jekyll build。
